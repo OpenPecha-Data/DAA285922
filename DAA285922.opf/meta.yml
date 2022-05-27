@@ -1,0 +1,22 @@
+id: DAA285922
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-02-24T10:30:37+00:00'
+last_modified: '2022-05-27T15:03:31.613260+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    '1977':
+      image_group_id: I1PD95909
+      title: བྱང་ཆུབ་ཀྱི་སེམས་བསྒོམ་པ།
+      total_pages: 1902
+      order: 64
+      base_file: 1977.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
